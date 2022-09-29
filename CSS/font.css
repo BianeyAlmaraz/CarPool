@@ -37,19 +37,3 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
-.icon-facebook:before {
-  content: "\61";
-}
-.icon-twitter:before {
-  content: "\62";
-}
-.icon-instagram:before {
-  content: "\63";
-}
-.icon-gplus:before {
-  content: "\64";
-}
-.icon-menu:before {
-  content: "\65";
-}
